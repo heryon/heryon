@@ -17,7 +17,7 @@
 
 ### Redes Sociais!
 
-<div style="display: line_block">
+<div style="display: inline_block">
 <a href="www.linkedin.com/in/heryon-davyd">
 <img align="center"alt="LinkedIn"src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
