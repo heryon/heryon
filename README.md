@@ -24,10 +24,10 @@
 <a href="https://www.instagram.com/heryondavyd/">
 <img align="center"alt="Instagram"src="https://skillicons.dev/icons?i=instagram"/>
 </a>
-<a href="www.linkedin.com/in/heryon-davyd">
+<!-- <a href="www.linkedin.com/in/heryon-davyd">
 <img align="center"alt="Discord"src="https://skillicons.dev/icons?i=discord"/>
 </a>
-</div>
+</div> --> 
 
 
 
