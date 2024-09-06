@@ -13,6 +13,7 @@
 
 <p  style="display: inline_block" align="center">
 <img height="300" width="300" src="https://github.com/heryon/heryon/blob/main/certificado-profissional-de-analise-de-dados-do-google.png">
+ <img height="300" width="300" src="https://github.com/heryon/heryon/blob/main/certificado-profissional-de-analise-de-dados-do-google.png">
 </p>
 
 ### Redes Sociais!
