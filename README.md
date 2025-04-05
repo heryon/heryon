@@ -19,7 +19,7 @@
 ### Redes Sociais!
 
 <div style="display: inline_block">
-<a href="www.linkedin.com/in/heryon-davyd">
+<a href="[www.linkedin.com/in/heryon-davyd](https://www.linkedin.com/in/heryon-davyd)">
 <img align="center"alt="LinkedIn"src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 <a href="https://www.instagram.com/heryondavyd/">
