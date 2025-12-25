@@ -4,11 +4,19 @@
  <p align="center"><img src="https://github.com/heryon/heryon/blob/6e00276c29e194e3df08c1ae021bdc5b57b1bd69/banner.png">
 </p>
 
+
+
+
+<!-- Repertório-->
 # <p align="center"> 🚀  </p>
-# Sobre mim
-#### <p align="left"> 💡 Minha abordagem é centrada na estratégia e na inovação. Como um verdadeiro estrategista, adoro analisar problemas complexos e encontrar soluções criativas e eficientes. Minha experiência como gamer e programador me proporcionou habilidades sólidas de pensamento crítico e resolução de problemas.
-#### 📚 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFAEL e Ciências de Dados na UFMS, enquanto continuo aprimorando minhas habilidades como desenvolvedor. Minha paixão pela inteligência artificial me levou a mergulhar fundo no algoritmo de aprendizado Perceptron Multilayer Random Mutations.
-#### 💻 Meus interesses são vastos e abrangem desde projetos de tecnologia até filosofia e literatura. Sou fascinado pela capacidade de tomar decisões embasadas em probabilidades, dados e estatísticas, o que me permite abordar problemas de forma mais profunda e encontrar as melhores soluções. </p>
+# Citações
+#### <p align="left"> "Nós somos o que fazemos repetidamente. A excelência, portanto, não é um ato, mas um hábito" - Aristóteles
+
+#### "Nisto é que consiste a monstruosidade no amor, senhora, em ser infinita a vontade e restrita a execução; em serem limitados os desejos e o ato escravo do limite."
+— William Shakespeare
+
+
+ </p>
 
 
 <p  style="display: inline_block" align="center">
@@ -17,7 +25,7 @@
 </p>
 
 ### Redes Sociais!
-
+<!-- Links de redirecionamneto-->
 <div style="display: inline_block">
 <a href="https://www.linkedin.com/in/heryon-davyd">
 <img align="center"alt="LinkedIn"src="https://skillicons.dev/icons?i=linkedin"/>
@@ -30,7 +38,7 @@
 
 
 ### Tecnologias que uso
-
+<!--Icones de Linguagens ou Ferramentas-->
 <div style="display: inline_block"><br/>
 <img align="center"alt="Python"src="https://skillicons.dev/icons?i=python"/>
 <img align="center"alt="Html5"src="https://skillicons.dev/icons?i=html"/>
@@ -48,9 +56,6 @@
 
 ### Stats
 <!--Estatisticas-->
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=heryon&theme=radica">
-</p> 
 <p align="center">
 <img height="250%" width="70%" src="https://github-readme-stats.vercel.app/api?username=heryon&show_icons=true&theme=radical">
 </p> 
