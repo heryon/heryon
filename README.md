@@ -6,7 +6,7 @@
 
 
 
-
+---
 <!-- Repertório-->
 # <p align="center"> 🚀  </p>
 # Citações
@@ -14,17 +14,19 @@
 
 #### "Nisto é que consiste a monstruosidade no amor, senhora, em ser infinita a vontade e restrita a execução; em serem limitados os desejos e o ato escravo do limite."
 — William Shakespeare
+</p>
 
+---
 
- </p>
-
-
-<p  style="display: inline_block" align="center">
+<!-- certificados -->
+ <p  style="display: inline_block" align="center">
 <img height="300" width="300" src="https://github.com/heryon/heryon/blob/main/certificado-profissional-de-analise-de-dados-do-google.png">
  <img height="280" width="280" src="https://github.com/heryon/heryon/blob/main/image.png">
 </p>
 
-### Redes Sociais!
+---
+
+### Social
 <!-- Links de redirecionamneto-->
 <div style="display: inline_block">
 <a href="https://www.linkedin.com/in/heryon-davyd">
@@ -36,8 +38,9 @@
 </div> --> 
 
 
+---
 
-### Tecnologias que uso
+### Technology
 <!--Icones de Linguagens ou Ferramentas-->
 <div style="display: inline_block"><br/>
 <img align="center"alt="Python"src="https://skillicons.dev/icons?i=python"/>
@@ -54,13 +57,19 @@
 <img align="center"alt="Vscode"src="https://skillicons.dev/icons?i=matlab"/>
 </div>
 
+---
+
 ### Stats
 <!--Estatisticas-->
-<p align="center">
-<img height="250%" width="70%" src="https://github-readme-stats.vercel.app/api?username=heryon&show_icons=true&theme=radical">
-</p> 
-<p align="center">
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heryon&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+
+---
 
 ### Projetos
 
