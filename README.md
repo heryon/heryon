@@ -22,9 +22,6 @@
 <a href="https://www.linkedin.com/in/heryon-davyd">
 <img align="center"alt="LinkedIn"src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-<a href="https://www.instagram.com/heryondavyd/">
-<img align="center"alt="Instagram"src="https://skillicons.dev/icons?i=instagram"/>
-</a>
 <!-- <a href="www.linkedin.com/in/heryon-davyd">
 <img align="center"alt="Discord"src="https://skillicons.dev/icons?i=discord"/>
 </a>
@@ -52,7 +49,7 @@
 ### Stats
 <!--Estatisticas-->
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=heryon&theme=radical">
+<img src="https://streak-stats.demolab.com/?user=heryon&theme=radica">
 </p> 
 <p align="center">
 <img height="250%" width="70%" src="https://github-readme-stats.vercel.app/api?username=heryon&show_icons=true&theme=radical">
