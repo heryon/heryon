@@ -1,81 +1,129 @@
-
-<!--Baner-->
-
- <p align="center"><img src="https://github.com/heryon/heryon/blob/2c307c99cc30d4d8650ad94b8db3d68676a74cc2/baner_corvo_edited.PNG">
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/heryon/heryon/blob/2c307c99cc30d4d8650ad94b8db3d68676a74cc2/baner_corvo_edited.PNG" />
 </p>
 
-
-
 ---
+
 <!-- Repertório-->
-# <p align="center"> 🚀  </p>
-# Citações
-#### "Mas se você não tem absolutamente nada para criar, então talvez você crie a si mesmo." - C.G. Jung
+## Citações
 
-#### <p align="left"> "Nós somos o que fazemos repetidamente. A excelência, portanto, não é um ato, mas um hábito" - Aristóteles
+> **"Mas se você não tem absolutamente nada para criar, então talvez você crie a si mesmo."**  
+> *Carl Gustav Jung*
 
-#### "Nisto é que consiste a monstruosidade no amor, senhora, em ser infinita a vontade e restrita a execução; em serem limitados os desejos e o ato escravo do limite." — William Shakespeare
+> **"Nós somos o que fazemos repetidamente. A excelência, portanto, não é um ato, mas um hábito."**  
+> *Aristóteles*
 
-
-</p>
+> **"Nisto é que consiste a monstruosidade no amor: ser infinita a vontade e restrita a execução."**  
+> *William Shakespeare*
 
 ---
 
+## Poemas
+
+### *Invictus* — William Ernest Henley (1888)
+
+> Das trevas que me cobrem,  
+> Negras como o abismo de um polo ao outro,  
+> Agradeço aos deuses — sejam quais forem —  
+> Pela minha alma inconquistável.
+>
+> Nas garras cruéis da circunstância  
+> Não recuei, nem clamei em voz alta.  
+> Sob os golpes do acaso,  
+> Minha cabeça sangra, mas não se curva.
+>
+> Além deste lugar de ira e lágrimas  
+> Ergue-se apenas o Horror da sombra;  
+> Ainda assim, a ameaça dos anos  
+> Me encontra — e encontrará — sem medo.
+>
+> Não importa quão estreita seja a porta,  
+> Quão carregado de punições o registro,  
+> Sou o senhor do meu destino,  
+> Sou o capitão da minha alma.
+
+---
+
+### *If—* — Rudyard Kipling (1895)
+
+> Se podes manter a cabeça quando todos à tua volta a perdem  
+> E te culpam por isso;  
+> Se podes confiar em ti quando todos duvidam,  
+> Mas ainda assim compreender a dúvida deles;  
+> Se podes esperar sem cansar da espera,  
+> Ou, sendo enganado, não mentir,  
+> Ou, sendo odiado, não ceder ao ódio,  
+> Sem parecer virtuoso demais ou sábio demais;
+>
+> Se podes sonhar sem fazer dos sonhos teu senhor;  
+> Pensar, sem fazer do pensamento teu fim;  
+> Se podes encarar Triunfo e Desastre  
+> E tratar esses dois impostores do mesmo modo;  
+> Se podes suportar ouvir a verdade que disseste  
+> Distorcida por tolos para enganar outros tolos,  
+> Ou ver tudo pelo que lutaste ruir  
+> E ainda assim reconstruir com ferramentas gastas;
+>
+> Se podes juntar todos os teus ganhos  
+> E arriscá-los num único lance,  
+> Perder — e recomeçar do zero  
+> Sem jamais lamentar a perda;  
+> Se podes forçar teu coração, nervos e músculos  
+> A continuar mesmo quando já se foram,  
+> E resistir quando nada resta  
+> Exceto a Vontade dizendo: “Resista”;
+>
+> Se podes falar às multidões sem perder a virtude,  
+> Ou andar com reis sem perder a simplicidade;  
+> Se inimigos ou amigos não podem ferir-te,  
+> Se todos contam contigo, mas ninguém demais;  
+> Se podes preencher o minuto implacável  
+> Com sessenta segundos de esforço pleno,  
+> Teu é o mundo e tudo o que nele há —  
+> E, mais que isso, serás um ser humano completo.
+
+---
+
+## Certificações
 <!-- certificados -->
- <p  style="display: inline_block" align="center">
-<img height="300" width="300" src="https://github.com/heryon/heryon/blob/main/certificado-profissional-de-analise-de-dados-do-google.png">
- <img height="280" width="280" src="https://github.com/heryon/heryon/blob/main/image.png">
-</p>
-
----
-
-### Social
-<!-- Links de redirecionamneto-->
-<div style="display: inline_block">
-<a href="https://www.linkedin.com/in/heryon-davyd">
-<img align="center"alt="LinkedIn"src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<!-- <a href="www.linkedin.com/in/heryon-davyd">
-<img align="center"alt="Discord"src="https://skillicons.dev/icons?i=discord"/>
-</a>
-</div> --> 
-
-
----
-
-### Technology
-<!--Icones de Linguagens ou Ferramentas-->
-<div style="display: inline_block"><br/>
-<img align="center"alt="Python"src="https://skillicons.dev/icons?i=python"/>
-<img align="center"alt="Html5"src="https://skillicons.dev/icons?i=html"/>
-<img align="center"alt="CSS3"src="https://skillicons.dev/icons?i=css"/>
-<img align="center"alt="Javascript"src="https://skillicons.dev/icons?i=javascript"/>
-<img align="center"alt="R"src="https://skillicons.dev/icons?i=r"/>
-<img align="center"alt="Tensorflow"src="https://skillicons.dev/icons?i=tensorflow"/>
-<img align="center"alt="OpenCV"src="https://skillicons.dev/icons?i=opencv"/>
-<img align="center"alt="Skit-learn"src="https://skillicons.dev/icons?i=sklearn"/>
-<img align="center"alt="Blender"src="https://skillicons.dev/icons?i=blender"/>
-<img align="center"alt="Unreal"src="https://skillicons.dev/icons?i=unreal"/>
-<img align="center"alt="Vscode"src="https://skillicons.dev/icons?i=vscode"/>
-<img align="center"alt="Vscode"src="https://skillicons.dev/icons?i=matlab"/>
-</div>
-
----
-
-### Stats
-<!--Estatisticas-->
-
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heryon&theme=tokyonight&hide_border=true"/>
+  <img height="300" width="300" src="https://github.com/heryon/heryon/blob/main/certificado-profissional-de-analise-de-dados-do-google.png" />
+  <img height="280" width="280" src="https://github.com/heryon/heryon/blob/main/image.png" />
 </p>
-
-
 
 ---
 
-### Projetos
+## Social
+<!-- Links de redirecionamneto-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/heryon-davyd">
+    <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
+---
+
+## Technology
+<!--Icones de Linguagens ou Ferramentas-->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,r,tensorflow,opencv,sklearn,blender,unreal,vscode,matlab" />
+</p>
+
+---
+
+## Stats
+<!--Estatisticas-->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heryon&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Projetos
+
+> Em construção. Foco em sistemas inteligentes, otimização e engenharia de modelos.
 
 <!---
 heryon/heryon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
