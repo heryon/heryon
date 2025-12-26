@@ -10,10 +10,13 @@
 <!-- Repertório-->
 # <p align="center"> 🚀  </p>
 # Citações
+#### "Mas se você não tem absolutamente nada para criar, então talvez você crie a si mesmo." - C.G. Jung
+
 #### <p align="left"> "Nós somos o que fazemos repetidamente. A excelência, portanto, não é um ato, mas um hábito" - Aristóteles
 
-#### "Nisto é que consiste a monstruosidade no amor, senhora, em ser infinita a vontade e restrita a execução; em serem limitados os desejos e o ato escravo do limite."
-— William Shakespeare
+#### "Nisto é que consiste a monstruosidade no amor, senhora, em ser infinita a vontade e restrita a execução; em serem limitados os desejos e o ato escravo do limite." — William Shakespeare
+
+
 </p>
 
 ---
