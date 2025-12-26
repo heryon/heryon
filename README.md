@@ -1,7 +1,7 @@
 
 <!--Baner-->
 
- <p align="center"><img src="https://github.com/heryon/heryon/blob/6e00276c29e194e3df08c1ae021bdc5b57b1bd69/banner.png">
+ <p align="center"><img src="https://github.com/heryon/heryon/blob/2c307c99cc30d4d8650ad94b8db3d68676a74cc2/baner_corvo_edited.PNG">
 </p>
 
 
