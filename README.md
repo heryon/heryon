@@ -6,7 +6,10 @@
 ---
 
 <!-- Repertório-->
+
+  
 ## Citações
+
 
 > **"Mas se você não tem absolutamente nada para criar, então talvez você crie a si mesmo."**  
 > *Carl Gustav Jung*
@@ -21,67 +24,15 @@
 
 ## Poemas
 
-### *Invictus* — William Ernest Henley (1888)
+<div align="center">
 
-> Das trevas que me cobrem,  
-> Negras como o abismo de um polo ao outro,  
-> Agradeço aos deuses — sejam quais forem —  
-> Pela minha alma inconquistável.
->
-> Nas garras cruéis da circunstância  
-> Não recuei, nem clamei em voz alta.  
-> Sob os golpes do acaso,  
-> Minha cabeça sangra, mas não se curva.
->
-> Além deste lugar de ira e lágrimas  
-> Ergue-se apenas o Horror da sombra;  
-> Ainda assim, a ameaça dos anos  
-> Me encontra — e encontrará — sem medo.
->
-> Não importa quão estreita seja a porta,  
-> Quão carregado de punições o registro,  
-> Sou o senhor do meu destino,  
-> Sou o capitão da minha alma.
 
----
+| **_Invictus_**<br><sub>William Ernest Henley (1888)</sub> | **_If—_**<br><sub>Rudyard Kipling (1895)</sub> |
+|---|---|
+| Das trevas que me cobrem,<br>Negras como o abismo de um polo ao outro,<br>Agradeço aos deuses — sejam quais forem —<br>Pela minha alma inconquistável.<br><br>Nas garras cruéis da circunstância<br>Não recuei, nem clamei em voz alta.<br>Sob os golpes do acaso,<br>Minha cabeça sangra, mas não se curva.<br><br>Além deste lugar de ira e lágrimas<br>Ergue-se apenas o Horror da sombra;<br>Ainda assim, a ameaça dos anos<br>Me encontra — e encontrará — sem medo.<br><br>Não importa quão estreita seja a porta,<br>Quão carregado de punições o registro,<br>Sou o senhor do meu destino,<br>Sou o capitão da minha alma. | Se podes manter a cabeça quando todos à tua volta a perdem<br>E te culpam por isso;<br>Se podes confiar em ti quando todos duvidam,<br>Mas ainda assim compreender a dúvida deles;<br>Se podes esperar sem cansar da espera,<br>Ou, sendo enganado, não mentir,<br>Ou, sendo odiado, não ceder ao ódio,<br>Sem parecer virtuoso demais ou sábio demais;<br><br>Se podes sonhar sem fazer dos sonhos teu senhor;<br>Pensar, sem fazer do pensamento teu fim;<br>Se podes encarar Triunfo e Desastre<br>E tratar esses dois impostores do mesmo modo;<br>Se podes suportar ouvir a verdade que disseste<br>Distorcida por tolos para enganar outros tolos,<br>Ou ver tudo pelo que lutaste ruir<br>E ainda assim reconstruir com ferramentas gastas;<br><br>Se podes juntar todos os teus ganhos<br>E arriscá-los num único lance,<br>Perder — e recomeçar do zero<br>Sem jamais lamentar a perda;<br>Se podes forçar teu coração, nervos e músculos<br>A continuar mesmo quando já se foram,<br>E resistir quando nada resta<br>Exceto a Vontade dizendo: “Resista”;<br><br>Se podes falar às multidões sem perder a virtude,<br>Ou andar com reis sem perder a simplicidade;<br>Se inimigos ou amigos não podem ferir-te,<br>Se todos contam contigo, mas ninguém demais;<br>Se podes preencher o minuto implacável<br>Com sessenta segundos de esforço pleno,<br>Teu é o mundo e tudo o que nele há —<br>E, mais que isso, serás um ser humano completo. |
 
-### *If—* — Rudyard Kipling (1895)
+</div>
 
-> Se podes manter a cabeça quando todos à tua volta a perdem  
-> E te culpam por isso;  
-> Se podes confiar em ti quando todos duvidam,  
-> Mas ainda assim compreender a dúvida deles;  
-> Se podes esperar sem cansar da espera,  
-> Ou, sendo enganado, não mentir,  
-> Ou, sendo odiado, não ceder ao ódio,  
-> Sem parecer virtuoso demais ou sábio demais;
->
-> Se podes sonhar sem fazer dos sonhos teu senhor;  
-> Pensar, sem fazer do pensamento teu fim;  
-> Se podes encarar Triunfo e Desastre  
-> E tratar esses dois impostores do mesmo modo;  
-> Se podes suportar ouvir a verdade que disseste  
-> Distorcida por tolos para enganar outros tolos,  
-> Ou ver tudo pelo que lutaste ruir  
-> E ainda assim reconstruir com ferramentas gastas;
->
-> Se podes juntar todos os teus ganhos  
-> E arriscá-los num único lance,  
-> Perder — e recomeçar do zero  
-> Sem jamais lamentar a perda;  
-> Se podes forçar teu coração, nervos e músculos  
-> A continuar mesmo quando já se foram,  
-> E resistir quando nada resta  
-> Exceto a Vontade dizendo: “Resista”;
->
-> Se podes falar às multidões sem perder a virtude,  
-> Ou andar com reis sem perder a simplicidade;  
-> Se inimigos ou amigos não podem ferir-te,  
-> Se todos contam contigo, mas ninguém demais;  
-> Se podes preencher o minuto implacável  
-> Com sessenta segundos de esforço pleno,  
-> Teu é o mundo e tudo o que nele há —  
-> E, mais que isso, serás um ser humano completo.
 
 ---
 
@@ -115,15 +66,25 @@
 
 ## Stats
 <!--Estatisticas-->
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heryon&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heryon&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=heryon&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heryon&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
 ## Projetos
 
-> Em construção. Foco em sistemas inteligentes, otimização e engenharia de modelos.
+> Em construção...
 
 <!---
 heryon/heryon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
