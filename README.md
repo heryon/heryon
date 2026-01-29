@@ -68,15 +68,12 @@
 <!--Estatisticas-->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heryon&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heryon&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=heryon&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heryon&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heryon&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 
