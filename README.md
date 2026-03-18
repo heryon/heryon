@@ -1,8 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/heryon/heryon/blob/2c307c99cc30d4d8650ad94b8db3d68676a74cc2/baner_corvo_edited.PNG" />
+  <img src="shadow_slave.gif"
 </p>
 
+
+  
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=heryon)
@@ -10,13 +12,13 @@
 <h2 align="center">Machine Learning Engineer</h2>
 
 <p align="center">
-Atuo no desenvolvimento de <b>sistemas de Machine Learning</b> e <b>IA aplicada</b>,  
-com ênfase em <b>Aprendizado por Reforço Profundo (Deep Q-Learning)</b>,  
-<b>Visão Computacional</b> e <b>agentes autônomos orientados à decisão</b>.
+Desenvolvo projetos de Machine Learning
 </p>
 
 <p align="center">
-Python • PyTorch • Deep Q-Learning (DQN) • Reinforcement Learning • OpenCV • Sistemas Cognitivos
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-purple?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-black?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autonomous%20Agents-darkgreen?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -27,53 +29,54 @@ Python • PyTorch • Deep Q-Learning (DQN) • Reinforcement Learning • Open
   <img src="https://skillicons.dev/icons?i=python,r,tensorflow,opencv,sklearn,matlab,html,css,javascript,blender,unreal,vscode" />
 </p>
 
-- **Reinforcement Learning:** Deep Q-Networks (DQN), definição de estados, ações, rewards e políticas  
-- **Machine Learning & IA:** modelagem, treinamento, avaliação e experimentação de redes neurais  
-- **Visão Computacional:** processamento de imagens, extração de features e observações visuais  
-- **Sistemas Autônomos:** agentes com ciclos de decisão, memória e aprendizado contínuo  
-- **Data & Matemática:** análise estatística, vetorial e computacional  
+  
 
 ---
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=heryon&theme=react-dark&hide_border=true" />
+
 ## Featured Projects
 
 ### 🧠 Cognitive Architecture — Prometheus (PIANO)
-[🔗 View Repository](https://github.com/heryon/Project_Prometheus)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=heryon&repo=Project_Prometheus&theme=radical&hide_border=true" />
+</p>
 
-Arquitetura cognitiva orientada a eventos para agentes autônomos com memória persistente, coerência sistêmica e ciclos de decisão estruturados.
+Framework de arquitetura cognitiva orientado a eventos para agentes autônomos com memória persistente, coerência sistêmica e tomada de decisão contínua.
 
-- Implementação da arquitetura PIANO (Parallel Input Aggregation via Neural Orchestration)
-- Sistema de eventos para rastreabilidade causal e continuidade operacional
-- Mecanismo de coerência para validação de decisões e redução de inconsistências
-- Integração com LLMs para interpretação contextual e resposta dinâmica
+- Implementação da arquitetura PIANO para orquestração paralela de módulos cognitivos  
+- Ciclos estruturados de percepção → contexto → planejamento → execução  
+- Sistema de eventos para rastreabilidade causal e manutenção de estado  
+- Mecanismos de coerência para detecção e resolução de inconsistências  
+- Integração com LLMs para raciocínio contextual e interação dinâmica  
 
 ---
 
 ### ⚡ Biological Simulation — Frankenstein Protocol
-[🔗 View Repository](https://github.com/heryon/Frankenstein_Protocol)
+<p>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=heryon&repo=Frankenstein_Protocol&theme=radical&hide_border=true" />
+</p>
+Framework teórico-experimental para indução de hipometabolismo profundo e preservação da viabilidade celular, explorando limites de reversibilidade em sistemas biológicos.
 
-Modelo teórico e experimental para indução de hipometabolismo profundo com foco na preservação da viabilidade celular.
-
-- Modelagem de estados metabólicos reduzidos
-- Simulação de processos fisiológicos sob condições extremas
-- Exploração de limites de reversibilidade celular
-- Estrutura conceitual baseada em bioengenharia e sistemas complexos
+- Modelagem de estados metabólicos extremos  
+- Simulação de processos fisiológicos em condições críticas  
+- Análise de limites de reversibilidade e preservação celular  
+- Integração de princípios de bioengenharia e sistemas complexos  
 
 ---
 
 ### 🧮 Temporal Modeling — Laplace CFC
-[🔗 View Repository](https://github.com/heryon/Project_Laplace_CFC)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=heryon&repo=Project_Laplace_CFC&theme=radical&hide_border=true" />
+</p>
 
-Sistema de modelagem temporal baseado em Continuous Function Composition (CFC) para previsão e representação dinâmica de estados.
+Framework de modelagem temporal baseado em Continuous Function Composition (CFC) para representação contínua e simulação de sistemas dinâmicos.
 
-- Modelagem contínua de sistemas dinâmicos
-- Representação matemática de transições temporais
-- Aplicações em previsão e simulação de comportamento
-- Integração potencial com agentes cognitivos e sistemas adaptativos
+- Composição funcional para modelar transições de estado ao longo do tempo  
+- Representação contínua de dinâmicas complexas  
+- Aplicações em previsão, simulação e análise de comportamento  
+- Integração com sistemas adaptativos e arquiteturas cognitivas  
 
----
-
-> Projetos focados em arquitetura, coerência sistêmica e construção de agentes inteligentes com capacidade de evolução contínua.
 ---
 
 ## Certificações
