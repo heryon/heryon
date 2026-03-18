@@ -34,22 +34,46 @@ Python • PyTorch • Deep Q-Learning (DQN) • Reinforcement Learning • Open
 - **Data & Matemática:** análise estatística, vetorial e computacional  
 
 ---
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=heryon&theme=react-dark&hide_border=true" />
+## Featured Projects
 
-## Projetos em Destaque
+### 🧠 Cognitive Architecture — Prometheus (PIANO)
+[🔗 View Repository](https://github.com/heryon/Project_Prometheus)
 
-- 🧠 **Agentes Cognitivos**  
-  Implementação de agentes autônomos baseados em orquestra neural PIANO, programação orientada a eventos, com memória, ciclos de decisão  
-  e aprendizado a partir da interação com o ambiente.
+Arquitetura cognitiva orientada a eventos para agentes autônomos com memória persistente, coerência sistêmica e ciclos de decisão estruturados.
 
-- 🎮 **Aprendizado por Reforço em Ambientes Simulados**  
-  Criação de ambientes customizados Deep Q-Learning (ex: Snake), definição de dinâmicas, funções de recompensa  
-  e treinamento de agentes baseados em valor.
+- Implementação da arquitetura PIANO (Parallel Input Aggregation via Neural Orchestration)
+- Sistema de eventos para rastreabilidade causal e continuidade operacional
+- Mecanismo de coerência para validação de decisões e redução de inconsistências
+- Integração com LLMs para interpretação contextual e resposta dinâmica
 
-- 👁️ **Visão Computacional Aplicada ao RL**  
-  Uso de observações visuais como entrada para agentes, integrando OpenCV e pipelines de ML.
+---
 
-> Projetos em constante evolução e refinamento técnico.
+### ⚡ Biological Simulation — Frankenstein Protocol
+[🔗 View Repository](https://github.com/heryon/Frankenstein_Protocol)
 
+Modelo teórico e experimental para indução de hipometabolismo profundo com foco na preservação da viabilidade celular.
+
+- Modelagem de estados metabólicos reduzidos
+- Simulação de processos fisiológicos sob condições extremas
+- Exploração de limites de reversibilidade celular
+- Estrutura conceitual baseada em bioengenharia e sistemas complexos
+
+---
+
+### 🧮 Temporal Modeling — Laplace CFC
+[🔗 View Repository](https://github.com/heryon/Project_Laplace_CFC)
+
+Sistema de modelagem temporal baseado em Continuous Function Composition (CFC) para previsão e representação dinâmica de estados.
+
+- Modelagem contínua de sistemas dinâmicos
+- Representação matemática de transições temporais
+- Aplicações em previsão e simulação de comportamento
+- Integração potencial com agentes cognitivos e sistemas adaptativos
+
+---
+
+> Projetos focados em arquitetura, coerência sistêmica e construção de agentes inteligentes com capacidade de evolução contínua.
 ---
 
 ## Certificações
@@ -101,8 +125,14 @@ Python • PyTorch • Deep Q-Learning (DQN) • Reinforcement Learning • Open
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heryon&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=heryon&theme=radical&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heryon&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+</p>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heryon&layout=compact&theme=radical&hide_border=true" />
