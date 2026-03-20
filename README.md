@@ -54,7 +54,7 @@ Framework de arquitetura cognitiva orientado a eventos para agentes autônomos c
 
 ### ⚡ Biological Simulation — Frankenstein Protocol
 <p>
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=heryon&repo=Frankenstein_Protocol&theme=radical&hide_border=true" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=heryon&repo=Frankenstein_Protocol&theme=radical&hide_border=tru" />
 </p>
 Framework teórico-experimental para indução de hipometabolismo profundo e preservação da viabilidade celular, explorando limites de reversibilidade em sistemas biológicos.
 
@@ -70,7 +70,7 @@ Framework teórico-experimental para indução de hipometabolismo profundo e pre
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=heryon&repo=Project_Laplace_CFC&theme=radical&hide_border=true" />
 </p>
 
-Framework de modelagem temporal baseado em Continuous Function Composition (CFC) para representação contínua e simulação de sistemas dinâmicos.
+Framework de modelagem temporal baseado em para representação contínua e simulação de sistemas dinâmicos.
 
 - Composição funcional para modelar transições de estado ao longo do tempo  
 - Representação contínua de dinâmicas complexas  
@@ -128,7 +128,7 @@ Framework de modelagem temporal baseado em Continuous Function Composition (CFC)
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=heryon&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=heryon&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
