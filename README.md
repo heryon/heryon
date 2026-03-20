@@ -33,7 +33,7 @@ Desenvolvo projetos de Machine Learning
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heryon&theme=react-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=heryon&theme=high-contrast&hide_border=true" />
 
 ## Featured Projects
 
@@ -54,7 +54,7 @@ Framework de arquitetura cognitiva orientado a eventos para agentes autônomos c
 
 ### ⚡ Biological Simulation — Frankenstein Protocol
 <p>
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=heryon&repo=Frankenstein_Protocol&theme=radical&hide_border=tru" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=heryon&repo=Frankenstein_Protocol&theme=radical&hide_border=true" />
 </p>
 Framework teórico-experimental para indução de hipometabolismo profundo e preservação da viabilidade celular, explorando limites de reversibilidade em sistemas biológicos.
 
