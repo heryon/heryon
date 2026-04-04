@@ -1,18 +1,16 @@
 <!-- Banner -->
 <p align="center">
-  <img src="shadow_slave.gif"
+  <img src="shadow_slave.gif" />
 </p>
 
-
-  
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=heryon)
 
-<h2 align="center">Machine Learning Engineer</h2>
+<h1 align="center">Machine Learning Engineer </h1>
 
 <p align="center">
-Desenvolvo projetos de Machine Learning
+Building intelligent systems that learn, adapt and make decisions.
 </p>
 
 <p align="center">
@@ -25,91 +23,136 @@ Desenvolvo projetos de Machine Learning
 
 ## Tech Stack
 
+<table align="center">
+
+<tr>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"/>
+<br>Python
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/>
+<br>vscode
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48"/>
+<br>PyTorch
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48"/>
+<br>TensorFlow
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=opencv" width="48"/>
+<br>OpenCV
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=sklearn" width="48"/>
+<br>Scikit-Learn
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48"/>
+<br>FastAPI
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postgres" width="48"/>
+<br>PostgreSQL
+</td>
+
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+<br>Docker
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=linux" width="48"/>
+<br>Linux
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=r" width="48"/>
+<br>R
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=matlab" width="48"/>
+<br>Matlab
+</td>
+
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="48"/>
+<br>Git
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=unity" width="48"/>
+<br>Unity
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=blender" width="48"/>
+<br>Blender
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="48"/>
+<br>Android Studio
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=notion" width="48"/>
+<br>Notion
+</td>
+
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55"/>
+<br>C++
+</td>
+</tr>
+
+</table>
+
+---
+
+## Activity
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,opencv,sklearn,matlab,html,css,javascript,blender,unreal,vscode" />
-</p>
-
-  
-
----
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heryon&theme=high-contrast&hide_border=true" />
-
-## Featured Projects
-
-### 🧠 Cognitive Architecture — Prometheus (PIANO)
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=heryon&repo=Project_Prometheus&theme=radical&hide_border=true" />
-</p>
-
-Framework de arquitetura cognitiva orientado a eventos para agentes autônomos com memória persistente, coerência sistêmica e tomada de decisão contínua.
-
-- Implementação da arquitetura PIANO para orquestração paralela de módulos cognitivos  
-- Ciclos estruturados de percepção → contexto → planejamento → execução  
-- Sistema de eventos para rastreabilidade causal e manutenção de estado  
-- Mecanismos de coerência para detecção e resolução de inconsistências  
-- Integração com LLMs para raciocínio contextual e interação dinâmica  
-
----
-
-### ⚡ Biological Simulation — Frankenstein Protocol
-<p>
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=heryon&repo=Frankenstein_Protocol&theme=radical&hide_border=true" />
-</p>
-Framework teórico-experimental para indução de hipometabolismo profundo e preservação da viabilidade celular, explorando limites de reversibilidade em sistemas biológicos.
-
-- Modelagem de estados metabólicos extremos  
-- Simulação de processos fisiológicos em condições críticas  
-- Análise de limites de reversibilidade e preservação celular  
-- Integração de princípios de bioengenharia e sistemas complexos  
-
----
-
-### 🧮 Temporal Modeling — Laplace CFC
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=heryon&repo=Project_Laplace_CFC&theme=radical&hide_border=true" />
-</p>
-
-Framework de modelagem temporal para representação contínua e simulação de sistemas dinâmicos.
-
-- Composição funcional para modelar transições de estado ao longo do tempo  
-- Representação contínua de dinâmicas complexas  
-- Aplicações em previsão, simulação e análise de comportamento  
-- Integração com sistemas adaptativos e arquiteturas cognitivas  
-
----
-
-## Certificações
-
-<p align="center">
-  <img height="300" width="300" src="https://github.com/heryon/heryon/blob/main/certificado-profissional-de-analise-de-dados-do-google.png" />
-  <img height="280" width="280" src="https://github.com/heryon/heryon/blob/main/image.png" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heryon&theme=high-contrast&hide_border=true" />
 </p>
 
 ---
 
-## Filosofia & Referências
+## References
 
-## Citações
-
-> **"Mas se você não tem absolutamente nada para criar, então talvez você crie a si mesmo."**  
+> **"But if you have absolutely nothing left to create, then perhaps you create yourself."**  
 > *Carl Gustav Jung*
 
-> **"Nós somos o que fazemos repetidamente. A excelência, portanto, não é um ato, mas um hábito."**  
-> *Aristóteles*
+> **"We are what we repeatedly do. Excellence, then, is not an act, but a habit."**  
+> *Aristotle*
 
-> **"Nisto é que consiste a monstruosidade no amor: ser infinita a vontade e restrita a execução."**  
+> **"Love’s tragedy lies in this: the will is infinite, but the execution is limited."**  
 > *William Shakespeare*
 
 ---
 
-## Poemas
+## Poems
 
 <div align="center">
 
 | **_Invictus_**<br><sub>William Ernest Henley (1888)</sub> | **_If—_**<br><sub>Rudyard Kipling (1895)</sub> |
 |---|---|
-| Das trevas que me cobrem,<br>Negras como o abismo de um polo ao outro,<br>Agradeço aos deuses (sejam quais forem)<br>Pela minha alma inconquistável.<br><br>Nas garras cruéis da circunstância<br>Não recuei, nem clamei em voz alta.<br>Sob os golpes do acaso,<br>Minha cabeça sangra, mas não se curva.<br><br>Além deste lugar de ira e lágrimas<br>Ergue-se apenas o Horror da sombra;<br>Ainda assim, a ameaça dos anos<br>Me encontra (e encontrará) sem medo.<br><br>Não importa quão estreita seja a porta,<br>Quão carregado de punições o registro,<br>Sou o senhor do meu destino,<br>Sou o capitão da minha alma. | Se podes manter a cabeça quando todos à tua volta a perdem<br>E te culpam por isso;<br>Se podes confiar em ti quando todos duvidam,<br>Mas ainda assim compreender a dúvida deles;<br>Se podes esperar sem cansar da espera,<br>Ou, sendo enganado, não mentir,<br>Ou, sendo odiado, não ceder ao ódio,<br>Sem parecer virtuoso demais ou sábio demais;<br><br>Se podes sonhar sem fazer dos sonhos teu senhor;<br>Pensar, sem fazer do pensamento teu fim;<br>Se podes encarar Triunfo e Desastre<br>E tratar esses dois impostores do mesmo modo;<br>Se podes suportar ouvir a verdade que disseste<br>Distorcida por tolos para enganar outros tolos,<br>Ou ver tudo pelo que lutaste ruir<br>E ainda assim reconstruir com ferramentas gastas;<br><br>Se podes juntar todos os teus ganhos<br>E arriscá-los num único lance,<br>Perder, e recomeçar do zero<br>Sem jamais lamentar a perda;<br>Se podes forçar teu coração, nervos e músculos<br>A continuar mesmo quando já se foram,<br>E resistir quando nada resta<br>Exceto a Vontade dizendo: “Resista”;<br><br>Se podes falar às multidões sem perder a virtude,<br>Ou andar com reis sem perder a simplicidade;<br>Se inimigos ou amigos não podem ferir-te,<br>Se todos contam contigo, mas ninguém demais;<br>Se podes preencher o minuto implacável<br>Com sessenta segundos de esforço pleno,<br>Teu é o mundo e tudo o que nele há<br>E, mais que isso, serás um ser humano completo. |
+| Out of the night that covers me,<br>Black as the pit from pole to pole,<br>I thank whatever gods may be<br>For my unconquerable soul.<br><br>In the fell clutch of circumstance<br>I have not winced nor cried aloud.<br>Under the bludgeonings of chance<br>My head is bloody, but unbowed.<br><br>Beyond this place of wrath and tears<br>Looms but the Horror of the shade,<br>And yet the menace of the years<br>Finds, and shall find, me unafraid.<br><br>It matters not how strait the gate,<br>How charged with punishments the scroll,<br>I am the master of my fate,<br>I am the captain of my soul. | If you can keep your head when all about you<br>Are losing theirs and blaming it on you,<br>If you can trust yourself when all men doubt you,<br>But make allowance for their doubting too;<br>If you can wait and not be tired by waiting,<br>Or being lied about, don’t deal in lies,<br>Or being hated, don’t give way to hating,<br>And yet don’t look too good, nor talk too wise;<br><br>If you can dream—and not make dreams your master;<br>If you can think—and not make thoughts your aim;<br>If you can meet with Triumph and Disaster<br>And treat those two impostors just the same;<br>If you can bear to hear the truth you’ve spoken<br>Twisted by knaves to make a trap for fools,<br>Or watch the things you gave your life to, broken,<br>And stoop and build ’em up with worn-out tools;<br><br>If you can make one heap of all your winnings<br>And risk it on one turn of pitch-and-toss,<br>And lose, and start again at your beginnings<br>And never breathe a word about your loss;<br>If you can force your heart and nerve and sinew<br>To serve your turn long after they are gone,<br>And so hold on when there is nothing in you<br>Except the Will which says to them: ‘Hold on!’<br><br>If you can talk with crowds and keep your virtue,<br>Or walk with Kings—nor lose the common touch,<br>If neither foes nor loving friends can hurt you,<br>If all men count with you, but none too much;<br>If you can fill the unforgiving minute<br>With sixty seconds’ worth of distance run,<br>Yours is the Earth and everything that’s in it,<br>And—which is more—you’ll be a Man, my son! |
 
 </div>
 
@@ -125,18 +168,7 @@ Framework de modelagem temporal para representação contínua e simulação de 
 
 ---
 
-## GitHub Stats
-
+##  GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=heryon&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heryon&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heryon&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=heryon&theme=radical&hide_border=true" />
 </p>
