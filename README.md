@@ -79,8 +79,8 @@ Building intelligent systems that learn, adapt and make decisions.
 </td>
 
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=r" width="48"/>
-<br>R
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="56"/>
+  <br>C#
 </td>
 
 <td align="center" width="100">
